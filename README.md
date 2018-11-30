@@ -1,4 +1,4 @@
-# Critically Assess Burgess's Concentric Model through Agent-based Model
+# Agent-Based Modeling to Explain the Spatial Differentiation of the Urban Poor
 
 This model adopts basic assumptions in Burgess's Concentric Model and attempts to model the spatial distribution of different income groups in the city in ABM to complement Burgess's theory. At every time step, each agent will check if they are happy on the patch (income >= housing_price; density-sensitivity > density; random.random() <= jobs_prob) and move to a satisfactory neighbor if unhappy. 
 
