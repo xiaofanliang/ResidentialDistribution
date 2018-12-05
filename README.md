@@ -1,24 +1,8 @@
 # Agent-Based Modeling to Explain the Spatial Differentiation of the Urban Poor
 
-This model adopts basic assumptions in Burgess's Concentric Model and attempts to model the spatial distribution of different income groups in the city in ABM to complement Burgess's theory. At every time step, each agent will check if they are happy on the patch (income >= housing_price; density-sensitivity > density; random.random() <= jobs_prob) and move to a satisfactory neighbor if unhappy. 
+## Abstract 
+The spatial distribution of the urban poor has long been the focus of urban sociologists, geographers, and economists. Understanding where these low-income populations reside in cities allows policymakers to identify areas that have high social risks and allocate public resources accordingly. However, the residential locations of people living in poverty are difficult to track and characterize as they tend to rent places in unregulated markets and move frequently. In my Capstone Project, I want to use agent-based models to predict the spatial distribution of low-income population residences in cities and validate the models against available empirical data. The first part of the project/validation will focus on examining economic factors and exploring how different distribution (e.g. concentric, random, and network) of these factors will alter low-income population’s preferences for residential locations. The second part of the project/validation will calibrate the model according to urban characteristics of a particular city and assess the model’s accuracy. 
 
-PeopleAgent
-- category (“poor”, “middle”, “rich”)
-- income (1, 2, 3)
-- density-sensitivity (5, 3, 1)
-- happy (True, False) 
-
-PatchAgent 
-- layout (“land_price”, “jobs_probs”, “density”)
-- density (number of people on patch) 
-- land_price (1, 2, 3)
-- housing_price (land_price / density)
-- jobs_prob
-
-Parameters 
-- Frames per Second (Number of frames to change per second)
-- Number of Agents (from 90 to 900 and changes 9 for each step)
-- Layout Choices (“land_price”, “jobs_probs”, “density”) 
-
-
-
+<p align="center">
+  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/img/model.png", width="600", height="300"/>
+<p>
