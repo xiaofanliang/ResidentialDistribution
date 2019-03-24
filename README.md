@@ -8,9 +8,9 @@ As cities continue to expand in the 21st century, there is a growing need to dev
 <p>
   
 <p align="center">
-  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/allPctByN.jpg", width="600", height="300"/>
+  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/AllPctByN.jpg.jpg", width="600", height="300"/>
 <p>
   
 <p align="center">
-  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/BarchartbyN.jpg", width="600", height="300"/>
+  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/BarchartByN.jpg", width="600", height="300"/>
 <p>
