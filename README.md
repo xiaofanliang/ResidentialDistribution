@@ -7,7 +7,7 @@ Full capstone paper [here](https://github.com/xiaofanliang/ResidentialDistributi
 Codes [here](https://github.com/xiaofanliang/ResidentialDistribution/blob/master/CapstoneABMcode.ipynb)
 
 <p align="center">
-  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/simulation.png", width="600", height="300"/>
+  <img src="https://github.com/xiaofanliang/UrbanPoorSpatialDistribution/blob/master/simulation.png", width="400", height="200"/>
 <p>
   
 <p align="center">
